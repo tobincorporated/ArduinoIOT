@@ -4,3 +4,6 @@ This is a template I created to allow an Arduino to fetch and post data to a web
 This template solved 2 problems that could not be fixed with preexisting solutions:
 * Arduino needed to be able to continuously poll and update data online
 * The webpage needed to be customizable so that our students could use it as a basis to create their own IoT-driven website
+
+## License
+This project was created for the App Academy and shared for the purpose of teaching students. Its use is strictly educational and it may not be copied without permission of the Pasadena Educational Foundation.
